@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of several pictures, by the best masters Being an addition to Mr. de Ryck's large collection of royal, Italian, ancient and modern pictures, &amp;c. Which will be sold by auction on Friday, the 11th of July, 1690. at three of the clock in the afternoon, at the east end of Exeter-Change, being that next the may-poll, in the Strand.</title>
+            <author>Ryck de, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58006</idno>
+            <idno type="STC">Wing R2415</idno>
+            <idno type="STC">ESTC R223723</idno>
+            <idno type="EEBO-CITATION">99834008</idno>
+            <idno type="PROQUEST">99834008</idno>
+            <idno type="VID">38487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1839:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of several pictures, by the best masters Being an addition to Mr. de Ryck's large collection of royal, Italian, ancient and modern pictures, &amp;c. Which will be sold by auction on Friday, the 11th of July, 1690. at three of the clock in the afternoon, at the east end of Exeter-Change, being that next the may-poll, in the Strand.</title>
+                  <author>Ryck de, Mr.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed gratis, at Mr. Hensman's in Westminster-Hall: Mr. Nott's in the Pall Mall: Mr. Roper's at the Miter near Temple-Bar: Mr. Hargrave's at the King's-Head, over against Furnivals-Inn in Holborn: John Bullords at the Old Bear in St. Pauls Church-yard: Mr. Ric. Parker's at the Unicorn in the Royal-Exchange, Booksellers; and at the place of sale,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38487:1" rendition="simple:additions"/>
+            <p>A CATALOGUE Of Several PICTURES, By the Beſt MASTERS.</p>
+            <p>Being an Addition to Mr. De Ryck's LARGE COLLECTION OF Royal, <hi>Italian,</hi> Ancient and Modern PICTURES, &amp;c.</p>
+            <p>Which will be ſold by AUCTION on <hi>Friday,</hi> the 11th of <hi>July,</hi> 1690. at Three of the Clock in the Afternoon, at the <hi>Eaſt</hi> end of <hi>Exeter-Change,</hi> being that next the <hi>May-Poll,</hi> in the <hi>Strand.</hi>
+            </p>
+            <p>Catalogues are diſtributed <hi>Gratis,</hi> at Mr. <hi>Henſman</hi>'s in <hi>Weſtminſter-Hall:</hi> M<hi rend="sup">r</hi>. <hi>Nott</hi>'s in the <hi>Pall Mall:</hi> Mr. <hi>Roper</hi>'s at the <hi>Miter</hi> near <hi>Temple-Bar:</hi> Mr. <hi>Hargrave</hi>'s at the King's-Head, over againſt <hi>Furnivals-Inn</hi> in <hi>Holborn: John Bullords</hi> at the Old Bear in St. <hi>Paul</hi>'s Church-yard: Mr. <hi>Ric. Parker</hi>'s at the Unicorn in the <hi>Royal-Exchange,</hi> Bookſellers; and at the place of Sale.</p>
+            <pb facs="tcp:38487:2"/>
+            <pb facs="tcp:38487:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38487:3"/>
+            <head>Paintings.</head>
+            <list>
+               <item>1 A Dead Boy by <hi>Fuller</hi>
+               </item>
+               <item>2 An old Philoſopher</item>
+               <item>3 King <hi>William</hi> and Queen <hi>Mary</hi>
+               </item>
+               <item>4 A winter-piece</item>
+               <item>5 A piece of Vanity</item>
+               <item>6 A ſmall Piece of <hi>Vander Velde</hi>
+               </item>
+               <item>7 A Mountebanck, after <hi>Teniers</hi>
+               </item>
+               <item>8 A little landskip with a ruin, by a <hi>Dutch</hi> maſter</item>
+               <item>9 A Froſt-piece, by the ſame</item>
+               <item>10 a sketch of an old mans head, by an <hi>Italian</hi>
+               </item>
+               <item>11 another Ditto</item>
+               <item>12 An Houſe of entertainment, finely done</item>
+               <item>13 a ſmall Landskip by a <hi>Dutch</hi> maſter</item>
+               <item>14 a Froſt-piece Ditto</item>
+               <item>15 Our Saviour, in the Garden, finely done</item>
+               <item>16 St. <hi>Peter</hi>'s deliv. out of Priſon, by a <hi>Dutch</hi> maſt.</item>
+               <item>17 an amorous piece, by <hi>Haemskirk</hi>
+               </item>
+               <item>18 a King <hi>William</hi> after <hi>Wiſſing</hi>
+               </item>
+               <item>19 Queen <hi>Mary,</hi> Ditto</item>
+               <item>20 a Battle piece by a <hi>Dutch</hi> maſter</item>
+               <item>21 a Landskip well done</item>
+               <item>22 a Blackmoor woman</item>
+               <item>23 a mans head after the Life</item>
+               <item>24 a womans picture, in ſmall</item>
+               <item>25 a Madona, in an oval frame, curiouſly done</item>
+               <item>26 a Froſt-piece with Sliders</item>
+               <item>27 St. <hi>John,</hi> by an <hi>Italian</hi> maſter</item>
+               <item>28 a sketch, of an old mans head, well done</item>
+               <item>29 another, Ditto</item>
+               <item>30 a Landskip by <hi>Flyer</hi>
+               </item>
+               <item>31 a Lemon finely done</item>
+               <item>32 an Hare and a Dog</item>
+               <item>33 King <hi>Charles</hi> after the Life</item>
+               <item>34 Queen <hi>Mary</hi> after <hi>Houſman</hi>
+               </item>
+               <item>35 <hi>Venus</hi> and <hi>Cupid</hi>
+               </item>
+               <item>36 The King of <hi>Swedeland</hi> in a Cradle</item>
+               <item>37 a Droll finely painted</item>
+               <pb n="2" facs="tcp:38487:3"/>
+               <item>38 King <hi>William,</hi> on copper, finely done</item>
+               <item>39 Queen <hi>Mary</hi> Ditto</item>
+               <item>40 an half length by Mr. <hi>Chriſtian</hi>
+               </item>
+               <item>41 an <hi>Eaſt-Indian</hi> Raven drawn after the Life</item>
+               <item>42 a <hi>Venus</hi> and <hi>Cupid</hi> by <hi>Du Ball</hi>
+               </item>
+               <item>43 a King and Queen 3 Quarters</item>
+               <item>44 a <hi>Venus</hi>
+               </item>
+               <item>45 a Landskip by a <hi>Dutch</hi> maſter</item>
+               <item>46 a Froſt-piece</item>
+               <item>47 King <hi>Charles</hi> a half length after <hi>Van Dyck</hi>
+               </item>
+               <item>48 Two Batts drawn by the life</item>
+               <item>49 a naked Lady in ſmall</item>
+               <item>50 a Landskip by a <hi>Dutch</hi> maſter</item>
+               <item>51 a ſmall piece of <hi>Haemskirks,</hi> on Copper</item>
+               <item>52 another Ditto</item>
+               <item>53 King <hi>David</hi> at his Devotion</item>
+               <item>54 a flower-piece, by <hi>Montingo</hi>
+               </item>
+               <item>55 a little piece of Fruit upon copper</item>
+               <item>56 a flower piece by Mr. <hi>Verelſt</hi>
+               </item>
+               <item>57 a little piece of fruit by a <hi>Dutch</hi> maſt. on copper</item>
+               <item>58 a Bear-baiting by <hi>Hondius</hi>
+               </item>
+               <item>59 <hi>Sampſon</hi> and the Lyon, by a <hi>Dutch</hi> maſter</item>
+               <item>60 a large Landskip, with Figures, by Mr. <hi>Hodowly</hi>
+               </item>
+               <item>61 King <hi>Charles</hi> the Second by a <hi>Dutch</hi> maſter</item>
+               <item>62 Queen <hi>Katherine, Ditto</hi>
+               </item>
+               <item>63 a Lady by a <hi>Dutch</hi> maſter</item>
+               <item>64 a ſinging by <hi>Haemskirk</hi>
+               </item>
+               <item>65 a Lady's Picture by a <hi>Dutch</hi> maſter</item>
+               <item>66 <hi>Chriſt</hi> taken from the Croſs by an <hi>Italian</hi>
+               </item>
+               <item>67 a <hi>Ceres</hi>'s head</item>
+               <item>68 <hi>Cleopatra</hi> finely painted</item>
+               <item>69 a 3 quarter Landskip by Mr. <hi>Edima</hi>
+               </item>
+               <item>70 a piece of <hi>Mars, Bacchus,</hi> &amp; <hi>Venus,</hi> by <hi>Hondius</hi> 7 foot high, 5 foot broad</item>
+               <item>71 a Drunken piece, 3 quarters, by <hi>Hondius</hi>
+               </item>
+               <item>72 an half length <hi>Cupid</hi> by <hi>Hondius</hi>
+               </item>
+               <item>73 Queen <hi>Mary,</hi> on copper</item>
+               <item>74 a Dog finely done</item>
+               <item>75 <hi>Cleopatra</hi> on Copper by <hi>Du Ball</hi>
+               </item>
+               <item>76 Autumn after the way of <hi>Rabens</hi>
+               </item>
+               <item>77 a piece of time, with ſeveral Figures by <hi>Hondius</hi>
+               </item>
+               <item>78 a half length Landskip by Mr. <hi>Edima</hi>
+               </item>
+               <item>79 a Landskip by <hi>Van Deiſt</hi>
+               </item>
+               <item>80 <hi>Pomona,</hi> on copper, by <hi>Du Ball</hi>
+               </item>
+               <item>81 a Madona on copper, by <hi>Van Heiden</hi>
+               </item>
+               <item>82 a School, by <hi>Haemskirk,</hi> 3 Quarters</item>
+               <item>83 an Original head of Sir <hi>Anthony Moor</hi>
+               </item>
+               <item>84 a Landskip by <hi>Van Deiſt</hi>
+               </item>
+               <item>85 a piece of flowers and fruit by <hi>Boudan</hi>
+               </item>
+               <item>86 an Original piece of Flowers by Mr. <hi>Baptiſt</hi>
+               </item>
+               <item>87 The Offering of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kings, by an <hi>Italian</hi>
+               </item>
+               <pb n="3" facs="tcp:38487:4"/>
+               <item>88 a piece with figures, and a Landskip, by <hi>Griffier</hi>
+               </item>
+               <item>89 a Summer, by <hi>Rubens</hi>
+               </item>
+               <item>90 a Spring, Ditto</item>
+               <item>91 a wine Glaſs, and golden Cup, an orig. of <hi>Rouſtraten</hi>
+               </item>
+               <item>92 an original ruin by <hi>Griffiere</hi>
+               </item>
+               <item>93 a half length Angel by <hi>Hondius</hi>
+               </item>
+               <item>94 an Original piece by <hi>Molenar</hi>
+               </item>
+               <item>95 a fruit-piece, Original, by <hi>Du Ball</hi>
+               </item>
+               <item>96 Old <hi>Haemskirks</hi> Picture, in Little</item>
+               <item>97 <hi>Jupiter</hi> and <hi>Caliſto,</hi> by a Fountain</item>
+               <item>99 a very fine Japan Cabinet</item>
+               <item>100 a fleeping <hi>Venus</hi>
+               </item>
+               <item>101 an old man ſignifying winter, by <hi>Rubens</hi>
+               </item>
+               <item>102 a ſinging Bird an Original by <hi>Verelſt</hi>
+               </item>
+               <item>103 an original Landskip by Mr <hi>Edima</hi>
+               </item>
+               <item>104 a Boy holding a Looking-Glaſs, by <hi>Hondius</hi>
+               </item>
+               <item>105 a fine Landskip by <hi>Hondius</hi>
+               </item>
+               <item>106 a Landskip with ſeveral figures, by <hi>Hondius</hi>
+               </item>
+               <item>107 an Original piece of <hi>Haemskirk</hi>'s</item>
+               <item>108 <hi>Chriſt</hi> before <hi>Pilate,</hi> by an <hi>Italian</hi>
+               </item>
+               <item>109 a very fine Japan Cabinet</item>
+               <item>110 King <hi>James</hi> on Horſe-back</item>
+               <item>111 <hi>Venus</hi> and a Satyr, by <hi>Van Heyden</hi>
+               </item>
+               <item>112 a Fruit-piece, an original by <hi>Boudan</hi>
+               </item>
+               <item>113 a Landskip in Copper, by <hi>Parelle</hi>
+               </item>
+               <item>114 a piece of beaſts, by <hi>Van Bergham</hi>
+               </item>
+               <item>115 a Lady's head, after the life, an orig. by <hi>De Ryck</hi> in oval</item>
+               <item>116 a Gentleman's head, Ditto</item>
+               <item>117 a large piece with Parrots, by <hi>Snyders</hi>
+               </item>
+               <item>118 <hi>Orpheus</hi> playing to the beaſts, and birds, and antique piece in water Co<g ref="char:EOLhyphen"/>lours, an original, by a great maſter</item>
+               <item>119 Mr. <hi>De Rycks</hi> picture, by himſelf</item>
+               <item>120 a Lady in an oval frame</item>
+               <item>121 a <hi>Cupid</hi>
+               </item>
+               <item>122 a Fortune</item>
+               <item>123 a very fine golden Pendulum chain Watch, enamell'd with little figures, by <hi>De Ryck</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38487:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
